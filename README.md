@@ -6,6 +6,8 @@ Goals for this project:
 - Pipeline the system so that it is easy to use and extend in the future.
 
 Files:
-- efficient_frontier.py: simulates and plots the efficient frontier for a universe of stocks. Plotting parameters at the top of the file.
+- efficient_frontier.py: simulates and plots the efficient frontier for a universe of stocks. Plotting parameters at the top of the file. Outputs look something like this:
+
+![alt text](https://i.postimg.cc/J4z8mLxV/aapl-amzn-frontier.png)
 
 Currently working on: plotting a bunch of different frontiers for universes to get some intuition for how these plots look
